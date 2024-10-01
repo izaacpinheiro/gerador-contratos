@@ -1,0 +1,16 @@
+-- GERADOR DE CONTRATOS --
+
+1) Se for abrir o arquivo WORD para conferir o contrato, FECHE o programa.
+
+2) Se for criar novos arquivos WORD, crie e salve na mesma pasta a partir do WORD.
+
+3) Sempre deixe o programa e o arquivo de contratos WORD na mesma pasta.
+
+4) Manter sempre o arquivo 'config.json' na mesma pasta do programa.
+
+> COMO MUDAR O ARQUIVO WORD DOS CONTRATOS?
+	1. Com o programa aberto, clique em "Browse";
+	2. Após abrir o explorador de arquivo, procure e selecione o novo arquivo word e clique em "Abrir";
+	3. No programa, clique em "Salvar" para salvar o novo arquivo de contratos.
+
+Qualquer dúvida ou problema entrar em contato com Izaac.
