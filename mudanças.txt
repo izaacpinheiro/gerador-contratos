@@ -1,0 +1,6 @@
+1. remover o selecionador de arquivo (apenas 1 arquivo) - OK
+2. mudar de numero do contrato para numero de venda - OK
+3. mudar "Local" para "Empreedimento" - OK
+4. contador automatico para numero de registro - OK
+5. botao para gerar pdf - OK
+6. bloquear o botao 'gerar contrato' ate que as informações sejam mantidas
